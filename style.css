@@ -14,3 +14,20 @@ h2 {
 	line-height:30px;
 	font-color:#000000;
 }
+h3 {
+	font-size:16px;
+	line-height:30px;
+	font-color:#666666;
+}
+.slider {
+	background:url("img/monitor.png") no-repeat;
+}
+.website {
+	background:url("img/laptop.png") no-repeat;
+}
+.apps {
+	background:url("img/phone.png") no-repeat;
+}
+.presentation {
+	background:url("img/screen.png") no-repeat;
+}
